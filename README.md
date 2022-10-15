@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/thedevastator/nba-players-stats-and-rating-times
 
 This Python program shows 2 graphs. The first one shows the team's average of all player's individual average scaled rating. The average scaled rating takes into account the players offensive and defensive abilities. It then rates them against all other players in the league. The second graph shows the team average of players individual average scaled rating for the Dallas Mavericks from 2004 till 2022. 
 
-[Youtube Video](https://www.youtube.com/)
+[Youtube Video](https://youtu.be/GcaefiheZiA)
 
 # Data Analysis Results
 From the first graph we learn that during the 2022 season the Boston Celtics had the highest team average scaled rating. This shows that the Celtics had the highest average player rating out of all the teams in the NBA. They are followed by the Phoenix Suns, Miami Heat, and the Golden State Warriors. This data is interesting because the Golden State Warriors, who had the 4th highest team average, won first overall in the playoffs. The Celtics, who were the highest rated team average, finished in second, losing to the Warriors in the finals. The Miami Heat, who was third highest rated, lost in the semi finals to the Celtics. The Phoenix Suns, second highest average rated score, was eliminated in the second round by the Dallas Mavericks. Ultimately from this chart, we learn that having a high average scaled rating for the team positively correlates with playoff placement but does not guarantee your final ranking. 
